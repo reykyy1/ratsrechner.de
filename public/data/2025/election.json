@@ -18,5 +18,10 @@
     "moenchenglasbach": {
       "name": "Stadt Mönchengladbach",
       "data-source": "/data/2025/moenchengladbach.json"
+    },
+      "dortmund": {
+  "name": "Stadt Paderborn",
+  "data-source": "/data/2025/paderborn.json"
+}
     }
   }
