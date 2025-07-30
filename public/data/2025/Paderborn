@@ -1,0 +1,1620 @@
+{
+    "cuncil-seats": 58,
+    "districts": [
+        {
+            "number": 1,
+            "name": "Innenstadt-Ost/Untere Südstadt"
+        },
+        {
+            "number": 2,
+            "name": "Süd-Ost/Dörener Weg"
+        },
+        {
+            "number": 3,
+            "name": "Süd-Ost/Piepenturmweg"
+        },
+        {
+            "number": 4,
+            "name": "Kaukenberg/Springbachhöfe"
+        },
+        {
+            "number": 5,
+            "name": "Lieth/Goldgrund"
+        },
+        {
+            "number": 6,
+            "name": "Bahneinschnitt/Uni/Hochstiftstraße"
+        },
+        {
+            "number": 7,
+            "name": "Südtstadt/Südring/Lichtenfelde/"
+        },
+        {
+            "number": 8,
+            "name": "Südstadt"
+        },
+        {
+            "number": 9,
+            "name": "Südstadt/Mönkeloh"
+        },
+        {
+            "number": 10,
+            "name": "Innenstadt-West/Ostriemeke/Riemekepark"
+        },
+        {
+            "number": 11,
+            "name": "Südwest-Riemeke"
+        },
+        {
+            "number": 12,
+            "name": "Riemeke/Westfriedhof/Alanbrooke"
+        },
+        {
+            "number": 13,
+            "name": "Fürstengärten/Schützenplatz"
+        },
+        {
+            "number": 14,
+            "name": "Stadtheide-Süd/Ausbesserungswerk"
+        },
+        {
+            "number": 15,
+            "name": "Nordwest-Stadtheide/An der Talle"
+        },
+        {
+            "number": 16,
+            "name": "Ost-Stadtheide/Seskersbruch"
+        },
+        {
+            "number": 17,
+            "name": "Neuenbeken/Marienloh"
+        },
+        {
+            "number": 18,
+            "name": "Dahl/Benhausen"
+        },
+        {
+            "number": 19,
+            "name": "Ost-Wewer/Südwest-Südstadt/Benediktinerstr."
+        },
+        {
+            "number": 20,
+            "name": "West-Wewer"
+        {
+            "number": 21,
+            "name": "Elsen-Süd/Gesseln"
+        },
+        {
+            "number": 22,
+            "name": "Elsen-Mitte/Metropolstraße"
+        },
+        {
+            "number": 23,
+            "name": "Elsen-Nord/Sander Straße/Comeniusschule"
+        },
+        {
+            "number": 24,
+            "name": "Sande"
+        },
+        {
+            "number": 25,
+            "name": "Neuhaus-West/Wilhelmshöhe"
+        },
+        {
+            "number": 26,
+            "name": "Schloss Neuhaus-Mitte/Kaiser-Heinrich-Straße/Schloßstraße"
+        },
+        {
+            "number": 27,
+            "name": "Neuhaus-Ost/Mastbruch-West"
+        },
+        {
+            "number": 28,
+            "name": "Mastbruch"
+        },
+        {
+            "number": 29,
+            "name": "Sennelager"
+        },
+],
+      "results": {},
+    "parties": [
+        {
+            "identifier": "cdu",
+            "short": "CDU",
+            "name": "Christlich Demokratische Union Deutschlands",
+            "colorcode": "#191919",
+            "districts-candidates": [
+                {
+                    "district-number": 1,
+                    "candidate-name": "Hunstig, Astrid"
+                },
+                {
+                    "district-number": 2,
+                    "candidate-name": "Zubler, Rolf"
+                },
+                {
+                    "district-number": 3,
+                    "candidate-name": "Grabenstroer, Karsten"
+                },
+                {
+                    "district-number": 4,
+                    "candidate-name": "Metzen, Toni Matthias"
+                },
+                {
+                    "district-number": 5,
+                    "candidate-name": "Sonnenberg, Andrea"
+                },
+                {
+                    "district-number": 6,
+                    "candidate-name": "Mohr, Martin"
+                },
+                {
+                    "district-number": 7,
+                    "candidate-name": "Harth, Stefanie"
+                },
+                {
+                    "district-number": 8,
+                    "candidate-name": "Mosch, Martina Rebekka"
+                },
+                {
+                    "district-number": 9,
+                    "candidate-name": "Pottmann, Marius"
+                },
+                {
+                    "district-number": 10,
+                    "candidate-name": "Hubenthal, Alexandra"
+                },
+                {
+                    "district-number": 11,
+                    "candidate-name": "Bürger, Markus"
+                },
+                {
+                    "district-number": 12,
+                    "candidate-name": "Dalhoff, Lukas"
+                },
+                {
+                    "district-number": 13,
+                    "candidate-name": "Dreier, Artjom Gabriel"
+                },
+                {
+                    "district-number": 14,
+                    "candidate-name": "Ortwein, Georg Wilhelm Paul"
+                },
+                {
+                    "district-number": 15,
+                    "candidate-name": "Pöppel, Tilman Klaus"
+                },
+                {
+                    "district-number": 16,
+                    "candidate-name": "Springer, Andre"
+                },
+                {
+                    "district-number": 17,
+                    "candidate-name": "Quasten, Christoph"
+                },
+                {
+                    "district-number": 18,
+                    "candidate-name": "Kaiser, Andreas"
+                },
+                {
+                    "district-number": 19,
+                    "candidate-name": "Hartmann, Christian"
+                },
+                {
+                    "district-number": 20,
+                    "candidate-name": "Koepsell, Hans-Werner"
+                },
+                {
+                    "district-number": 21,
+                    "candidate-name": "Quickstern, Lara"
+                },
+                {
+                    "district-number": 22,
+                    "candidate-name": "Sprick, Frank"
+                },
+                {
+                    "district-number": 23,
+                    "candidate-name": "Rorig, Christian"
+                },
+                {
+                    "district-number": 24,
+                    "candidate-name": "Siemensmeyer, Robert"
+                },
+                {
+                    "district-number": 25,
+                    "candidate-name": "Kalis, Timon"
+                },
+                {
+                    "district-number": 26,
+                    "candidate-name": "Olmer, Robin"
+                },
+                {
+                    "district-number": 27,
+                    "candidate-name": "Mertens, Markus Bernhard Josef"
+                },
+                {
+                    "district-number": 28,
+                    "candidate-name": "Meiche, Susanne Marie Veronika"
+                },
+                {
+                    "district-number": 29,
+                    "candidate-name": "Thauern, Markus"
+                },
+            ],
+            "list-candidates": [
+                {
+                    "position": 1,
+                    "name": "Mertens, Markus Bernhard Josef"
+                },
+                {
+                    "position": 2,
+                    "name": "Harth, Stefanie"
+                },
+                {
+                    "position": 3,
+                    "name": "Pöppel, Tilman Klaus"
+                },
+                {
+                    "position": 4,
+                    "name": "Sonnenberg, Andrea"
+                },
+                {
+                    "position": 5,
+                    "name": "Honervogt, Dietrich Adolf"
+                },
+                {
+                    "position": 6,
+                    "name": "Meiche, Susanne Marie Veronika"
+                },
+                {
+                    "position": 7,
+                    "name": "Quickstern, Lara"
+                },
+                {
+                    "position": 8,
+                    "name": "Burger, Markus"
+                },
+                {
+                    "position": 9,
+                    "name": "Siemensmeyer, Robert"
+                },
+                {
+                    "position": 10,
+                    "name": "Metzen, Toni Matthias"
+                },
+                {
+                    "position": 11,
+                    "name": "Sprick, Frank"
+                },
+                {
+                    "position": 12,
+                    "name": "Springer, Andre"
+                },
+                {
+                    "position": 13,
+                    "name": "Ortwein, Georg Wilhelm Paul"
+                },
+                {
+                    "position": 14,
+                    "name": "Grabenstroer, Karsten "
+                },
+                {
+                    "position": 15,
+                    "name": "Zubler, Rolf"
+                },
+                {
+                    "position": 16,
+                    "name": "Mohr, Martin"
+                },
+                {
+                    "position": 17,
+                    "name": "Mosch, Martina Rebekka"
+                },
+                {
+                    "position": 18,
+                    "name": "Gläser, Dominic"
+                },
+                {
+                    "position": 19,
+                    "name": "Wasserkort, Beate Anna Maria"
+                },
+                {
+                    "position": 20,
+                    "name": "Dalhoff, Lukas"
+                },
+                {
+                    "position": 21,
+                    "name": "Dreier, Artjom Gabriel"
+                },
+                {
+                    "position": 22,
+                    "name": "Quasten, Christoph"
+                },
+                {
+                    "position": 23,
+                    "name": "Kaiser, Andreas"
+                },
+                {
+                    "position": 24,
+                    "name": "Hartmann, Christian"
+                },
+                {
+                    "position": 25,
+                    "name": "Koepsell, Hans-Werner"
+                },
+                {
+                    "position": 26,
+                    "name": "Rorig, Christian"
+                },
+                {
+                    "position": 27,
+                    "name": "Kalis, Timon"
+                },
+                {
+                    "position": 28,
+                    "name": "Olmer, Robin"
+                },
+                {
+                    "position": 29,
+                    "name": "Thauern, Markus"
+                },
+                {
+                    "position": 30,
+                    "name": "Dr. Hemmen, Hans Walter Josef"
+                },
+                {
+                    "position": 31,
+                    "name": "Henning, Christian"
+                },
+                {
+                    "position": 32,
+                    "name": "Hunstig, Astrid Hildegard"
+                },
+                {
+                    "position": 33,
+                    "name": "Umiljenovic, Ljiljana"
+                },
+                {
+                    "position": 34,
+                    "name": "Ahle, Dietmar Wilhelm"
+                },
+                {
+                    "position": 35,
+                    "name": "Dalmann, Igor"
+                },
+                {
+                    "position": 36,
+                    "name": "Sieveke, Rainer Michael"
+                },
+                {
+                    "position": 37,
+                    "name": "Brauner, Daniel"
+                },
+                {
+                    "position": 38,
+                    "name": "Klausing, Christoph"
+                },
+                {
+                    "position": 39,
+                    "name": "Konersmann, Brunhilde"
+                },
+                {
+                    "position": 40,
+                    "name": "Hubenthal, Alexandra"
+                },
+                {
+                    "position": 41,
+                    "name": "Schnitz-Vossebein" 
+                },
+                {
+                    "position": 42,
+                    "name": "Schreckenberg, Ralf Heinrich"
+                },
+                {
+                    "position": 43,
+                    "name": "Gisbertz, Karl Hermann Maximilian"
+                },
+                {
+                    "position": 44,
+                    "name": "Mueller, Daniela"
+                },
+                {
+                    "position": 45,
+                    "name": "Mertens, Frank Konrad"
+                },
+                {
+                    "position": 46,
+                    "name": "Ruppel, Justus Felix"
+                },
+                {
+                    "position": 47,
+                    "name": "Reker, Roland Heinrich Anton"
+                },
+                {
+                    "position": 48,
+                    "name": "Hiedemann, Jan Christoph Bernhard"
+                },
+                {
+                    "position": 49,
+                    "name": "Rüther, Dirk"
+                },
+                {
+                    "position": 50,
+                    "name": "Sieveke, Adrian"
+                },
+                {
+                    "position": 51,
+                    "name": "Reinike, Malte Fabian"
+                },
+                {
+                    "position": 52,
+                    "name": "Hanselle, Tobias Fritz"
+                },
+                {
+                    "position": 53,
+                    "name": "Kurpick, Heinrich"
+                },
+                {
+                    "position": 54,
+                    "name": "Zahl, Maximilian"
+                },
+                {
+                    "position": 55,
+                    "name": "Voß, Marius"
+                },
+                {
+                    "position": 56,
+                    "name": "Pollmeier, Markus"
+                },
+                {
+                    "position": 57,
+                    "name": "Cink, Markus"
+                },
+                {
+                    "position": 58,
+                    "name": "Dohms, Alexa"
+                },
+            ]
+        },
+ {
+            "identifier": "greens",
+            "short": "GRÜNE",
+            "name": "BÜNDNIS 90/DIE GRÜNEN",
+            "colorcode": "#1fa12d",
+            "districts-candidates": [
+  {
+                    "district-number": 1,
+                    "candidate-name": "Erkurt, Güven"
+                },
+                {
+                    "district-number": 2,
+                    "candidate-name": "Rittmeier, Florian"
+                },
+                {
+                    "district-number": 3,
+                    "candidate-name": "Keimeier, Bettina"
+                },
+                {
+                    "district-number": 4,
+                    "candidate-name": "Pape, Gerrit"
+                },
+                {
+                    "district-number": 5,
+                    "candidate-name": "Möhl, Ulrich"
+                },
+                {
+                    "district-number": 6,
+                    "candidate-name": "Dr.Pusch, Rainer"
+                },
+                {
+                    "district-number": 7,
+                    "candidate-name": "Scherhans, Catharina"
+                },
+                {
+                    "district-number": 8,
+                    "candidate-name": "Schröder, Klaus"
+                },
+                {
+                    "district-number": 9,
+                    "candidate-name": "Kramm, Sabine"
+                },
+                {
+                    "district-number": 10,
+                    "candidate-name": "Menze, Johannes"
+                },
+                {
+                    "district-number": 11,
+                    "candidate-name": "Bause-Engel, Björn"
+                },
+                {
+                    "district-number": 12,
+                    "candidate-name": "Lahme, Kira Nadine"
+                },
+                {
+                    "district-number": 13,
+                    "candidate-name": "Niggemeier, Heike Rita"
+                },
+                {
+                    "district-number": 14,
+                    "candidate-name": "Kremer, Christof Heinrich Josef"
+                },
+                {
+                    "district-number": 15,
+                    "candidate-name": "Victor, Marlene"
+                },
+                {
+                    "district-number": 16,
+                    "candidate-name": "Dr. Sprenger, Regina Maria"
+                },
+                {
+                    "district-number": 17,
+                    "candidate-name": "Pirsig, Ralf Franz Heinz"
+                },
+                {
+                    "district-number": 18,
+                    "candidate-name": "Schiissler, Susanne Stefanie"
+                },
+                {
+                    "district-number": 19,
+                    "candidate-name": "Rathgeber, Marlene"
+                },
+                {
+                    "district-number": 20,
+                    "candidate-name": "Gamm, Martina"
+                },
+                {
+                    "district-number": 21,
+                    "candidate-name": "Surkamer, Angelika Theresia"
+                },
+                {
+                    "district-number": 22,
+                    "candidate-name": "Beer, Sigrid"
+                },
+                {
+                    "district-number": 23,
+                    "candidate-name": "Vormberg, Jutta"
+                },
+                {
+                    "district-number": 24,
+                    "candidate-name": "Pahler, Barbara"
+                },
+                {
+                    "district-number": 25,
+                    "candidate-name": "Arens, Helmut"
+                },
+                {
+                    "district-number": 26,
+                    "candidate-name": "Huppmeier, Birgit Ursula"
+                },
+                {
+                    "district-number": 27,
+                    "candidate-name": "Dr. Hunstig Matthias"
+                },
+                {
+                    "district-number": 28,
+                    "candidate-name": "Kemper, Nick Leon"
+                },
+                {
+                    "district-number": 29,
+                    "candidate-name": "Hake, Ulrich Hubertus"
+                },
+            ],
+            "list-candidates": [
+                {
+                    "position": 1,
+                    "name": "Scherhans, Catharina"
+                },
+                {
+                    "position": 2,
+                    "name": "Schröder, Klaus"
+                },
+                {
+                    "position": 3,
+                    "name": "Kramm, Sabine"
+                },
+                {
+                    "position": 4,
+                    "name": "Erkurt, Güven"
+                },
+                {
+                    "position": 5,
+                    "name": "Hüppmeier, Birgit"
+                },
+                {
+                    "position": 6,
+                    "name": "Rittmeier, Florian"
+                },
+                {
+                    "position": 7,
+                    "name": "Gamm, Martina"
+                },
+                {
+                    "position": 8,
+                    "name": "Möhl, Ulrich"
+                },
+                {
+                    "position": 9,
+                    "name"Lahme, Kira Nadine"
+                },
+                {
+                    "position": 10,
+                    "name": "Menze, Johannes"
+                },
+                {
+                    "position": 11,
+                    "name": "Niggemeyer, Heike Rita"
+                },
+                {
+                    "position": 12,
+                    "name": "Bause-Engel, Bjorn"
+                },
+                {
+                    "position": 13,
+                    "name": "Stock, Imke Lena"
+                },
+                {
+                    "position": 14,
+                    "name": "Dr.Pusch, Rainer"
+                },
+                {
+                    "position": 15,
+                    "name": "Rathgeber, Marlene"
+                },
+                {
+                    "position": 16,
+                    "name": "Arens, Helmut"
+                },
+                {
+                    "position": 17,
+                    "name": "Kallert, Patricia Anna Maria"
+                },
+                {
+                    "position": 18,
+                    "name": "Schwan, Stefan Martin"
+                },
+                {
+                    "position": 19,
+                    "name": "Dr. Sprenger, Regina Maria"
+                },
+                {
+                    "position": 20,
+                    "name": "Kremer, Christof Heinrich Josef"
+                },
+                {
+                    "position": 21,
+                    "name": "Gill, Inga Ursula"
+                },
+                {
+                    "position": 22,
+                    "name": "Pape, Gerrit"
+                },
+                {
+                    "position": 23,
+                    "name": "Pahler, Barbara"
+                },
+                {
+                    "position": 24,
+                    "name": "Malassa, Christoph"
+                },
+                {
+                    "position": 25,
+                    "name": "Victor, Marlene"
+                },
+                {
+                    "position": 26,
+                    "name": "Beckers, Julius Taddeo"
+                },
+                {
+                    "position": 27,
+                    "name": "Keimeier, Bettina"
+                },
+                {
+                    "position": 28,
+                    "name": "Huttig, Marcel"
+                },
+                {
+                    "position": 29,
+                    "name": "Vormberg, Jutta"
+                },
+                {
+                    "position": 30,
+                    "name": "Zauner, Marcus"
+                },
+                {
+                    "position": 31,
+                    "name": "Surkamer, Angelika Theresia"
+                },
+                {
+                    "position": 32,
+                    "name": "Victor, Sylvain Jean Daniel"
+                },
+                {
+                    "position": 33,
+                    "name": "Beer, Sigrid"
+                },
+                {
+                    "position": 34,
+                    "name": "Dr. Hunstig, Matthias"
+                },
+                {
+                    "position": 35,
+                    "name": "Bucker, Cornelia Regine Gabriele"
+                },
+                {
+                    "position": 36,
+                    "name": "Bohning, Christian"
+                },
+                {
+                    "position": 37,
+                    "name": "Schroder, Birgitta"  
+                },
+            ]
+   [
+{
+    "identifier": "spd",
+    "short": "SPD",
+    "name": "Sozialdemokratische Partei Deutschlands",
+    "colorcode": "#e3000f",
+    "districts-candidates": [
+        { "district-number": 1, "candidate-name": "Dr. Olschewski, Jürgen" },
+        { "district-number": 2, "candidate-name": "Kobert, Mark" },
+        { "district-number": 3, "candidate-name": "Deppe, Michael Konrad" },
+        { "district-number": 4, "candidate-name": "Grabosch, Waldemar" },
+        { "district-number": 5, "candidate-name": "Oska, Stefan Georg" },
+        { "district-number": 6, "candidate-name": "Wittmer, Alexander" },
+        { "district-number": 7, "candidate-name": "Arnold, Cynthia" },
+        { "district-number": 8, "candidate-name": "Koppeler, Yves Sean" },
+        { "district-number": 9, "candidate-name": "Wroblewski, Bernd" },
+        { "district-number": 10, "candidate-name": "Busse, Carsten Konrad" },
+        { "district-number": 11, "candidate-name": "Krollmann, Timo" },
+        { "district-number": 12, "candidate-name": "Prior, Henri" },
+        { "district-number": 13, "candidate-name": "Breetzke, Axel" },
+        { "district-number": 14, "candidate-name": "Wiederhold, Luisa" },
+        { "district-number": 15, "candidate-name": "Köhne, Sebastian" },
+        { "district-number": 16, "candidate-name": "Voigtländer, Roger" },
+        { "district-number": 17, "candidate-name": "Koch, Ulrich Josef" },
+        { "district-number": 18, "candidate-name": "Höcker, Daisy Renate Gertrud" },
+        { "district-number": 19, "candidate-name": "Neundorf, Nicole" },
+        { "district-number": 20, "candidate-name": "Zech, Stephan Holger" },
+        { "district-number": 21, "candidate-name": "Wiczynski, Sascha" },
+        { "district-number": 22, "candidate-name": "Grenz, Ringo" },
+        { "district-number": 23, "candidate-name": "Dr. Völkel, Bärbel" },
+        { "district-number": 24, "candidate-name": "Wanko, Robert Hans Heinrich" },
+        { "district-number": 25, "candidate-name": "Blankenburg, Ronja Emma" },
+        { "district-number": 26, "candidate-name": "Schäfers, Harald Gerhard" },
+        { "district-number": 27, "candidate-name": "Henze, Franz Josef" },
+        { "district-number": 28, "candidate-name": "Krugmann, Manfred Heinrich August" },
+        { "district-number": 29, "candidate-name": "Buxot, Björn" }
+    ],
+    "list-candidates": [
+        { "position": 1, "name": "Voigtländer, Roger" },
+        { "position": 2, "name": "Höcker, Daisy Renate Gertrud" },
+        { "position": 3, "name": "Koch, Ulrich Josef" },
+        { "position": 4, "name": "Neundorf, Nicole" },
+        { "position": 5, "name": "Deppe, Michael Konrad" },
+        { "position": 6, "name": "Dr. Olschewski, Jürgen" },
+        { "position": 7, "name": "Blisse, Carsten Konrad" },
+        { "position": 8, "name": "Grabosch, Waldemar" },
+        { "position": 9, "name": "Köhne, Sebastian" },
+        { "position": 10, "name": "Wroblewski, Bernd" },
+        { "position": 11, "name": "Buxot, Björn" },
+        { "position": 12, "name": "Wiederhold, Luisa" },
+        { "position": 13, "name": "Breetzke, Axel" },
+        { "position": 14, "name": "Blankenburg, Ronja Emma" },
+        { "position": 15, "name": "Oska, Stefan Georg" },
+        { "position": 16, "name": "Arnold, Cynthia" },
+        { "position": 17, "name": "Henze, Franz Josef" },
+        { "position": 18, "name": "Dr. Völkel, Bärbel" },
+        { "position": 19, "name": "Krollmann, Timo" },
+        { "position": 20, "name": "Koppeler, Yves Sean" },
+        { "position": 21, "name": "Grenz, Ringo" },
+        { "position": 22, "name": "Schäfers, Harald Gerhard" },
+        { "position": 23, "name": "Wiczynski, Sascha" },
+        { "position": 24, "name": "Wanko, Robert Hans Heinrich" },
+        { "position": 25, "name": "Krugmann, Manfred Heinrich August" },
+        { "position": 26, "name": "Kobert, Mark" },
+        { "position": 27, "name": "Zech, Stephan Holger" },
+        { "position": 28, "name": "Wittmer, Alexander" },
+        { "position": 29, "name": "Prior, Henri" }
+    ]
+}
+]
+{
+    "identifier": "fdp",
+    "short": "FDP",
+    "name": "Freie Demokratische Partei",
+    "colorcode": "#ffed00",
+    "districts-candidates": [
+        { "district-number": 1, "candidate-name": "Prof. Dr. Dr. Ortner, Gerhard Erich" },
+        { "district-number": 2, "candidate-name": "Weber, Lukas" },
+        { "district-number": 3, "candidate-name": "Zillmann, Anke Ingeborg" },
+        { "district-number": 4, "candidate-name": "Beylouny, Raphael Maria" },
+        { "district-number": 5, "candidate-name": "Salzmann, Lukas" },
+        { "district-number": 6, "candidate-name": "Zinn, Elke" },
+        { "district-number": 7, "candidate-name": "Lürbke, Marc" },
+        { "district-number": 8, "candidate-name": "van Koten, Frank" },
+        { "district-number": 9, "candidate-name": "Bolte, Wolfram Werner" },
+        { "district-number": 10, "candidate-name": "Baumjohann, Lars" },
+        { "district-number": 11, "candidate-name": "Jordan, Rüdiger Willfried" },
+        { "district-number": 12, "candidate-name": "Ortner, Renate Luise" },
+        { "district-number": 13, "candidate-name": "Mildner, Andrea" },
+        { "district-number": 14, "candidate-name": "Dr. Hadaschik, Michael Johannes Herbert Maria" },
+        { "district-number": 15, "candidate-name": "Westphal, Oliver" },
+        { "district-number": 16, "candidate-name": "Nolte, Benjamin" },
+        { "district-number": 17, "candidate-name": "Pbppe, Sascha" },
+        { "district-number": 18, "candidate-name": "Fuchs, Wilfried" },
+        { "district-number": 19, "candidate-name": "Estel, Sophie" },
+        { "district-number": 20, "candidate-name": "Grobing, Klaus Karl" },
+        { "district-number": 21, "candidate-name": "Kesselmeier, Jonas" },
+        { "district-number": 22, "candidate-name": "Senn, Alexander" },
+        { "district-number": 23, "candidate-name": "Hoppe, Florian" },
+        { "district-number": 24, "candidate-name": "Grannemann, Paul Bennet" },
+        { "district-number": 25, "candidate-name": "Deppe, Caspar-David" },
+        { "district-number": 26, "candidate-name": "Schliter, Michelle" },
+        { "district-number": 27, "candidate-name": "Dr. Walter, Monika Brigitte" },
+        { "district-number": 28, "candidate-name": "Grannemann, Wilhelm Christian Heinrich" },
+        { "district-number": 29, "candidate-name": "Fucke, Dennis" }
+    ],
+    "list-candidates": [
+        { "position": 1, "name": "Pbppe, Sascha" },
+        { "position": 2, "name": "Senn, Alexander" },
+        { "position": 3, "name": "van Koten, Frank" },
+        { "position": 4, "name": "Hoppe, Florian" },
+        { "position": 5, "name": "Grannemann, Wilhelm Christian Heinrich" },
+        { "position": 6, "name": "Zillmann, Anke Ingeborg" },
+        { "position": 7, "name": "Grobing, Klaus Karl" },
+        { "position": 8, "name": "Schliter, Michelle" },
+        { "position": 9, "name": "Baumjohann, Lars" },
+        { "position": 10, "name": "Mildner, Andrea" },
+        { "position": 11, "name": "Fuchs, Wilfried" },
+        { "position": 12, "name": "Estel, Sophie" },
+        { "position": 13, "name": "Salzmann, Lukas" },
+        { "position": 14, "name": "Nolte, Benjamin" },
+        { "position": 15, "name": "Fucke, Dennis" }
+    ]
+}
+]
+{
+    "identifier": "afd",
+    "short": "AfD",
+    "name": "Alternative für Deutschland",
+    "colorcode": "#009ee0",
+    "districts-candidates": [
+        { "district-number": 1, "candidate-name": "Meyer-Lansky, Karl-Heinz" },
+        { "district-number": 2, "candidate-name": "Puzer, Artur" },
+        { "district-number": 3, "candidate-name": "Brecht, Ernst Rainer" },
+        { "district-number": 4, "candidate-name": "Weber, Marvin Curtis Uwe" },
+        { "district-number": 5, "candidate-name": "Fischer, Denis" },
+        { "district-number": 6, "candidate-name": "Berendes, Werner" },
+        { "district-number": 7, "candidate-name": "Schulze, Markus" },
+        { "district-number": 8, "candidate-name": "Peters, Franz Josef" },
+        { "district-number": 9, "candidate-name": "Vogt, Ulrike" },
+        { "district-number": 10, "candidate-name": "Glitz, Georg Horst" },
+        { "district-number": 11, "candidate-name": "Wolter, Alfred Bruno" },
+        { "district-number": 12, "candidate-name": "Sass, Henny" },
+        { "district-number": 13, "candidate-name": "Driller, Georg Josef" },
+        { "district-number": 14, "candidate-name": "Lasch, Oxana" },
+        { "district-number": 15, "candidate-name": "Lichtenthaler, Christian" },
+        { "district-number": 16, "candidate-name": "Kohlhage, Hermann" },
+        { "district-number": 17, "candidate-name": "Frey, Erich Rudolf" },
+        { "district-number": 18, "candidate-name": "Köhler, Burkhard" },
+        { "district-number": 19, "candidate-name": "Kascheev, Igor" },
+        { "district-number": 20, "candidate-name": "Jasper, Ingrid Maria" },
+        { "district-number": 21, "candidate-name": "Kurzweg, Christian" },
+        { "district-number": 22, "candidate-name": "Schmelzer, Ennia Magdalena" },
+        { "district-number": 23, "candidate-name": "Laub, Ramén" },
+        { "district-number": 24, "candidate-name": "Sinnhuber, Rainer Otto Emil" },
+        { "district-number": 25, "candidate-name": "Andres, Eugen" },
+        { "district-number": 26, "candidate-name": "Marx, Dirk" },
+        { "district-number": 27, "candidate-name": "Schmelzer, André" },
+        { "district-number": 28, "candidate-name": "Lex, Alexander" },
+        { "district-number": 29, "candidate-name": "Kemper, Andreas Reinhold Willi" }
+    ],
+    "list-candidates": [
+        { "position": 1, "name": "Weber, Marvin Curtis Uwe" },
+        { "position": 2, "name": "Lex, Alexander" },
+        { "position": 3, "name": "Kemper, Andreas Reinhold Willi" },
+        { "position": 4, "name": "Fischer, Denis" },
+        { "position": 5, "name": "Schmelzer, André" },
+        { "position": 6, "name": "Andres, Eugen" },
+        { "position": 7, "name": "Marx, Dirk" },
+        { "position": 8, "name": "Kurzweg, Christian" },
+        { "position": 9, "name": "Lichtenthaler, Christian" },
+        { "position": 10, "name": "Sinnhuber, Rainer Otto Emil" },
+        { "position": 11, "name": "Glitz, Georg Horst" },
+        { "position": 12, "name": "Laub, Ramén" },
+        { "position": 13, "name": "Kohlhage, Hermann" },
+        { "position": 14, "name": "Schmelzer, Ennia Magdalena" },
+        { "position": 15, "name": "Vogt, Ulrike" },
+        { "position": 16, "name": "Brecht, Ernst Rainer" },
+        { "position": 17, "name": "Puzer, Artur" },
+        { "position": 18, "name": "Driller, Georg Josef" }
+    ]
+}
+]
+{
+    "identifier": "die-linke",
+    "short": "Die Linke",
+    "name": "Die Linke",
+    "colorcode": "#be3075",
+    "districts-candidates": [
+        { "district-number": 1, "candidate-name": "Dreier, Eva" },
+        { "district-number": 2, "candidate-name": "Lampe, Marie" },
+        { "district-number": 3, "candidate-name": "Schulz, Nicolas" },
+        { "district-number": 4, "candidate-name": "Todt, Franz Gerhard" },
+        { "district-number": 5, "candidate-name": "Butov, Vivianne" },
+        { "district-number": 6, "candidate-name": "Petzold, Thomas" },
+        { "district-number": 7, "candidate-name": "Steinhoff, Egbert" },
+        { "district-number": 8, "candidate-name": "Massey, Nadine" },
+        { "district-number": 9, "candidate-name": "Over, Johanna Maria" },
+        { "district-number": 10, "candidate-name": "Köllner, Roswitha" },
+        { "district-number": 11, "candidate-name": "Borgmeier, Reinhard" },
+        { "district-number": 12, "candidate-name": "Austermeier, Cornelia Adele Alma" },
+        { "district-number": 13, "candidate-name": "Kniesburges, Felicitas Dorothea" },
+        { "district-number": 14, "candidate-name": "Gennaro, Chiara" },
+        { "district-number": 15, "candidate-name": "Gennaro, Amelia" },
+        { "district-number": 16, "candidate-name": "Dick, Walter Lambert" },
+        { "district-number": 17, "candidate-name": "Lemmes, Helga" },
+        { "district-number": 18, "candidate-name": "Drike, Victoria Vivienne Leonora Artemis" },
+        { "district-number": 19, "candidate-name": "Schu, Martina" },
+        { "district-number": 20, "candidate-name": "Makal, Patrick" },
+        { "district-number": 21, "candidate-name": "Lindhauer, Julian" },
+        { "district-number": 22, "candidate-name": "Brandes, Erik Armin" },
+        { "district-number": 23, "candidate-name": "Pehlgrim, Hanna" },
+        { "district-number": 24, "candidate-name": "Neumann, Günter Heinz Werner" },
+        { "district-number": 25, "candidate-name": "Schröder, Juliane Ellen" },
+        { "district-number": 26, "candidate-name": "Schattenberg, Melina" },
+        { "district-number": 27, "candidate-name": "Dickfeld, Jürgen Heinz" },
+        { "district-number": 28, "candidate-name": "Deeken, Marlon" },
+        { "district-number": 29, "candidate-name": "Kaptantogrul, Elina" }
+    ],
+    "list-candidates": [
+        { "position": 1, "name": "Dreier, Eva" },
+        { "position": 2, "name": "Borgmeier, Reinhard" },
+        { "position": 3, "name": "Butov, Vivianne" },
+        { "position": 4, "name": "Steinhoff, Egbert" },
+        { "position": 5, "name": "Massey, Nadine" },
+        { "position": 6, "name": "Makal, Patrick" },
+        { "position": 7, "name": "Schu, Martina" },
+        { "position": 8, "name": "Todt, Franz Gerhard" },
+        { "position": 9, "name": "Lampe, Marie" },
+        { "position": 10, "name": "Schulz, Nicolas" },
+        { "position": 11, "name": "Köllner, Roswitha" },
+        { "position": 12, "name": "Kniesburges, Felicitas Dorothea" },
+        { "position": 13, "name": "Austermeier, Cornelia Adele Alma" },
+        { "position": 14, "name": "Siebert, Dustin Marcel" },
+        { "position": 15, "name": "Herbe, Judith" },
+        { "position": 16, "name": "Lindhauer, Julian" },
+        { "position": 17, "name": "Kunze, Jana" },
+        { "position": 18, "name": "Bosselmann, Ralf" },
+        { "position": 19, "name": "Schröder, Juliane Ellen" },
+        { "position": 20, "name": "Petzold, Thomas" }
+    ]
+}
+]
+{
+    "identifier": "volt",
+    "short": "Volt",
+    "name": "Volt Deutschland",
+    "colorcode": "#502379",
+    "districts-candidates": [
+        { "district-number": 1, "candidate-name": "Lammers, Robert Simon" },
+        { "district-number": 2, "candidate-name": "Fittkau, Niklas" },
+        { "district-number": 3, "candidate-name": "Godde, Maria" },
+        { "district-number": 4, "candidate-name": "Leifhelm, Rahel" },
+        { "district-number": 5, "candidate-name": "Leifhelm, Tobias Lukas" },
+        { "district-number": 6, "candidate-name": "Drewer, Arnold" },
+        { "district-number": 7, "candidate-name": "Enns, Dieter" },
+        { "district-number": 8, "candidate-name": "Hanemann, Stefan Heinrich" },
+        { "district-number": 9, "candidate-name": "Hagemeier, Ken" },
+        { "district-number": 10, "candidate-name": "Tarantino, Maurizio Joey" },
+        { "district-number": 11, "candidate-name": "Schenk, Markus Ralf" },
+        { "district-number": 12, "candidate-name": "Chmiel, David" },
+        { "district-number": 13, "candidate-name": "Hellmann, Michael Johannes" },
+        { "district-number": 14, "candidate-name": "Goldkuhle, Felix Franz" },
+        { "district-number": 15, "candidate-name": "Pape-Kampmeier, Udo Berndt" },
+        { "district-number": 16, "candidate-name": "Tiemann, Bernd August Wilhelm" },
+        { "district-number": 17, "candidate-name": "Hoffmann, Walter Gerhard" },
+        { "district-number": 18, "candidate-name": "Stelte, Norbert Michael" },
+        { "district-number": 19, "candidate-name": "Lackmann, Johannes Antonius Maria" },
+        { "district-number": 20, "candidate-name": "Hagemeier, Claudia" },
+        { "district-number": 21, "candidate-name": "Rahlmeyer, Hildegard Theresia Maria" },
+        { "district-number": 22, "candidate-name": "Tegtmeier, Nicolai" },
+        { "district-number": 23, "candidate-name": "Klerks, Hannah" },
+        { "district-number": 24, "candidate-name": "Schmitz, Reinhard Josef" },
+        { "district-number": 25, "candidate-name": "Schenk, Gabriele Maria" },
+        { "district-number": 26, "candidate-name": "Schenk, Johanna Petra" },
+        { "district-number": 27, "candidate-name": "Zenge-Dieterle, Julia Angelika" },
+        { "district-number": 28, "candidate-name": "Jakob, Laureen" },
+        { "district-number": 29, "candidate-name": "Kampmeier, Elke" }
+    ],
+    "list-candidates": [
+        { "position": 1, "name": "Lackmann, Johannes Antonius Maria" },
+        { "position": 2, "name": "Klerks, Hannah" },
+        { "position": 3, "name": "Hagemeier, Ken" },
+        { "position": 4, "name": "Zenge-Dieterle, Julia Angelika" },
+        { "position": 5, "name": "Fittkau, Niklas" },
+        { "position": 6, "name": "Schenk, Markus Ralf" },
+        { "position": 7, "name": "Pape-Kampmeier, Udo Berndt" }
+    ]
+}
+]
+
+{
+    "identifier": "die-partei",
+    "short": "Die PARTEI",
+    "name": "Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",
+    "colorcode": "#a30000",
+    "districts-candidates": [
+        { "district-number": 1, "candidate-name": "Dierkes, Kevin" },
+        { "district-number": 2, "candidate-name": "Patzer-Meyer, Roman Lucas" },
+        { "district-number": 3, "candidate-name": "Dridger, Alexander" },
+        { "district-number": 4, "candidate-name": "Kramps, Benjamin Bernhard Alfred" },
+        { "district-number": 5, "candidate-name": "Schelper, Pierre-Marcel" },
+        { "district-number": 6, "candidate-name": "Carniel, Philip" },
+        { "district-number": 7, "candidate-name": "Twiste, Margret" },
+        { "district-number": 8, "candidate-name": "Schelper, Jennifer" },
+        { "district-number": 9, "candidate-name": "Mann, Carina" },
+        { "district-number": 10, "candidate-name": "Salmen, Peter" },
+        { "district-number": 11, "candidate-name": "Carniel, Johanna Dorothea" },
+        { "district-number": 12, "candidate-name": "Biere, Lea" },
+        { "district-number": 13, "candidate-name": "Baumgarten, Ronja-Marie" },
+        { "district-number": 14, "candidate-name": "Schwentker, Christoph" },
+        { "district-number": 15, "candidate-name": "Siegmund, Andreas" },
+        { "district-number": 16, "candidate-name": "Stratmann, Miriam" },
+        { "district-number": 17, "candidate-name": "Mann, Florian" },
+        { "district-number": 18, "candidate-name": "Schaumann, Guido" },
+        { "district-number": 19, "candidate-name": "Rammert, Niko" },
+        { "district-number": 20, "candidate-name": "Lessnau, Martin Lukas" },
+        { "district-number": 21, "candidate-name": "Torner, Raffael Norbert" },
+        { "district-number": 22, "candidate-name": "Kleczka, Thomas Anton" },
+        { "district-number": 23, "candidate-name": "Siegmund, Patrick" },
+        { "district-number": 24, "candidate-name": "Siegmund, Julia" },
+        { "district-number": 25, "candidate-name": "Katte, Leander Oliver" },
+        { "district-number": 26, "candidate-name": "Twiste, Julia" },
+        { "district-number": 27, "candidate-name": "Siegmund, Elvira" },
+        { "district-number": 28, "candidate-name": "Ebbers, Michael" },
+        { "district-number": 29, "candidate-name": "Siegmund, Helena" }
+    ],
+    "list-candidates": [
+        { "position": 1, "name": "Siegmund, Andreas" },
+        { "position": 2, "name": "Torner, Raffael Norbert" },
+        { "position": 3, "name": "Salmen, Peter" },
+        { "position": 4, "name": "Dridger, Alexander" },
+        { "position": 5, "name": "Rammert, Niko" }
+    ]
+}
+]
+{
+  "identifier": "fbi",
+  "short": "FBI Freie Wähler",
+  "name": "Freie Bürger-Initiative Freie Wähler",
+  "colorcode": "#003399",
+  "districts-candidates": [
+    { "district-number": 1, "candidate-name": "Tegethof, Hans Josef Wilhelm" },
+    { "district-number": 2, "candidate-name": "Dr. Holzweißig, Martin Joachim" },
+    { "district-number": 3, "candidate-name": "Koester, Cäcilia Theresia" },
+    { "district-number": 4, "candidate-name": "Deperschmidt, Vitali" },
+    { "district-number": 5, "candidate-name": "Hüttemann, Hartmut" },
+    { "district-number": 6, "candidate-name": "Dr. Ditter, Jan" },
+    { "district-number": 7, "candidate-name": "Godde, Manfred Franz" },
+    { "district-number": 8, "candidate-name": "Bannenberg, Wilfried" },
+    { "district-number": 9, "candidate-name": "Grewe, Klaus" },
+    { "district-number": 10, "candidate-name": "Jones, Nicole" },
+    { "district-number": 11, "candidate-name": "Bozkurt, Eleonora" },
+    { "district-number": 12, "candidate-name": "Zinn, Marina" },
+    { "district-number": 13, "candidate-name": "Meyer, Ulrich" },
+    { "district-number": 14, "candidate-name": "Regenbrecht, Sabine" },
+    { "district-number": 15, "candidate-name": "Zinn, Waldemar" },
+    { "district-number": 16, "candidate-name": "Reynolds, Megan Anna Lena" },
+    { "district-number": 17, "candidate-name": "Geffarth, Nicolas" },
+    { "district-number": 18, "candidate-name": "Lackmann, Katharina" },
+    { "district-number": 19, "candidate-name": "Godde, Sabine Maria" },
+    { "district-number": 20, "candidate-name": "Lohmann, Frank Manfred Wilfred" },
+    { "district-number": 21, "candidate-name": "Bozkurt, Melissa" },
+    { "district-number": 22, "candidate-name": "Tegethof, Dirk" },
+    { "district-number": 23, "candidate-name": "Leifels, Stefan" },
+    { "district-number": 24, "candidate-name": "Lackmann, Rita Maria Elisabeth" },
+    { "district-number": 25, "candidate-name": "Wesselkamp, Monika Brigitte" },
+    { "district-number": 26, "candidate-name": "Dr. Lackmann, Jan" },
+    { "district-number": 27, "candidate-name": "Hegemann, Christa Hildegard Dora" },
+    { "district-number": 28, "candidate-name": "Kortmann, Christof" },
+    { "district-number": 29, "candidate-name": "Tegethof, Marianne Hedwig Gertrud" }
+  ],
+  "list-candidates": [
+    { "position": 1, "name": "Dr. Lackmann, Jan" },
+    { "position": 2, "name": "Jones, Nicole" },
+    { "position": 3, "name": "Hüttemann, Hartmut" },
+    { "position": 4, "name": "Reynolds, Megan Anna Lena" },
+    { "position": 5, "name": "Tegethof, Dirk" },
+    { "position": 6, "name": "Lackmann, Katharina" },
+    { "position": 7, "name": "Dr. Holzweißig, Martin Joachim" },
+    { "position": 8, "name": "Koester, Cäcilia Theresia" },
+    { "position": 9, "name": "Dr. Ditter, Jan" },
+    { "position": 10, "name": "Regenbrecht, Sabine" },
+    { "position": 11, "name": "Lohmann, Frank Manfred Wilfred" },
+    { "position": 12, "name": "Bozkurt, Eleonora" },
+    { "position": 13, "name": "Deperschmidt, Vitali" },
+    { "position": 14, "name": "Tegethof, Marianne Hedwig Gertrud" },
+    { "position": 15, "name": "Kortmann, Christof" },
+    { "position": 16, "name": "Bozkurt, Melissa" }
+  ]
+}
+{
+  "identifier": "fuer-paderborn",
+  "short": "FÜR PADERBORN",
+  "name": "Freie Überparteiliche Ratsarbeit PADERBORN",
+  "colorcode": "#228B22",
+  "districts-candidates": [
+    { "district-number": 1, "candidate-name": "Montino, Gerhard Karl" },
+    { "district-number": 2, "candidate-name": "Sapula, Anna Izabela" },
+    { "district-number": 3, "candidate-name": "Dirker, Hermann Michael" },
+    { "district-number": 4, "candidate-name": "Schatz, Artur" },
+    { "district-number": 5, "candidate-name": "Bartel, Maik" },
+    { "district-number": 6, "candidate-name": "Dirker, Lukas" },
+    { "district-number": 7, "candidate-name": "Voth, Viktoria" },
+    { "district-number": 8, "candidate-name": "Tkocz, Sebastian" },
+    { "district-number": 9, "candidate-name": "Glas, Josef" },
+    { "district-number": 10, "candidate-name": "Henke, Julian" },
+    { "district-number": 11, "candidate-name": "Wensker, Katrin Julia" },
+    { "district-number": 12, "candidate-name": "Peter, Lea" },
+    { "district-number": 13, "candidate-name": "Hoppe, Stephan Johannes" },
+    { "district-number": 14, "candidate-name": "Wildfeuer, Helmut Felix" },
+    { "district-number": 15, "candidate-name": "Montino, Constance Antonia" },
+    { "district-number": 16, "candidate-name": "Lummer, Oliver Niklas" },
+    { "district-number": 17, "candidate-name": "Hubner, Maria Elisabeth" },
+    { "district-number": 18, "candidate-name": "Lummer, Birgit Petra" },
+    { "district-number": 19, "candidate-name": "Pospiech, Christian Reinhold" },
+    { "district-number": 20, "candidate-name": "Hartung, Joana" },
+    { "district-number": 21, "candidate-name": "Hubner, Kai Gerhard Albert" },
+    { "district-number": 22, "candidate-name": "Martini, Alexander" },
+    { "district-number": 23, "candidate-name": "Lummer, Rainer" },
+    { "district-number": 24, "candidate-name": "Schmeing, René Heinz" },
+    { "district-number": 25, "candidate-name": "Keller, Michael" },
+    { "district-number": 26, "candidate-name": "Martini, Alice Helga" },
+    { "district-number": 27, "candidate-name": "Montino, Jutta Eleonore" },
+    { "district-number": 28, "candidate-name": "Pollmeyer, Nico Tyrel" },
+    { "district-number": 29, "candidate-name": "Westhoff, Stefan" }
+  ],
+  "list-candidates": [
+    { "position": 1, "name": "Hoppe, Stephan Johannes" },
+    { "position": 2, "name": "Lummer, Rainer" },
+    { "position": 3, "name": "Martini, Alexander" },
+    { "position": 4, "name": "Montino, Constance Antonia" },
+    { "position": 5, "name": "Dirker, Lukas" },
+    { "position": 6, "name": "Wensker, Katrin Julia" },
+    { "position": 7, "name": "Montino, Jutta Eleonore" },
+    { "position": 8, "name": "Henke, Julian" },
+    { "position": 9, "name": "Voth, Viktoria" },
+    { "position": 10, "name": "Keller, Michael" },
+    { "position": 11, "name": "Hubner, Kai Gerhard Albert" },
+    { "position": 12, "name": "Westhoff, Stefan" },
+    { "position": 13, "name": "Pospiech, Christian Reinhold" },
+    { "position": 14, "name": "Peter, Lea" },
+    { "position": 15, "name": "Montino, Gerhard Karl" },
+    { "position": 16, "name": "Pollmeyer, Nico Tyrel" },
+    { "position": 17, "name": "Sapula, Anna Izabela" },
+    { "position": 18, "name": "Dirker, Hermann Michael" },
+    { "position": 19, "name": "Schatz, Artur" },
+    { "position": 20, "name": "Lummer, Birgit Petra" },
+    { "position": 21, "name": "Glas, Josef" },
+    { "position": 22, "name": "Wildfeuer, Helmut Felix" },
+    { "position": 23, "name": "Tkocz, Sebastian" },
+    { "position": 24, "name": "Lummer, Oliver Niklas" },
+    { "position": 25, "name": "Hubner, Maria Elisabeth" },
+    { "position": 26, "name": "Bartel, Maik" },
+    { "position": 27, "name": "Hartung, Joana" },
+    { "position": 28, "name": "Schmeing, René Heinz" },
+    { "position": 29, "name": "Martini, Alice Helga" }
+  ]
+}
+"poll-results": {
+    "cdu": 40.33,
+    "greens": 24.14,
+    "spd": 12.78,
+    "fdp": 5.67,
+    "left": 4.60,
+    "afd": 5.06,
+    "the-party": 2.67,
+    "fbi": 1.01,
+    "fuer": 2.77,
+    "volt": 0.96,
+    "others": 0  
+  },
+ "past-district-results": {
+    "1": {
+        "cdu": 39.39,
+        "spd": 8.6,
+        "greens": 29.82,
+        "fdp": 3.95,
+        "afd": 2.06,
+        "fbi": 0.96,
+        "die-linke": 6.89,
+        "fuer-paderborn": 1.49,
+        "die-partei": 4.52,
+        "volt": 2.32
+    },
+    "2": {
+        "cdu": 38.97,
+        "spd": 10.29,
+        "greens": 29.92,
+        "fdp": 5.42,
+        "afd": 3.67,
+        "fbi": 1.11,
+        "die-linke": 4.69,
+        "fuer-paderborn": 1.75,
+        "die-partei": 2.82,
+        "volt": 1.37
+    },
+    "3": {
+        "cdu": 39.57,
+        "spd": 13.21,
+        "greens": 23.89,
+        "fdp": 5.0,
+        "afd": 7.24,
+        "fbi": 0.57,
+        "die-linke": 4.71,
+        "fuer-paderborn": 2.58,
+        "die-partei": 2.24,
+        "volt": 0.98
+    },
+    "4": {
+        "cdu": 38.86,
+        "spd": 11.05,
+        "greens": 17.06,
+        "fdp": 2.76,
+        "afd": 12.43,
+        "fbi": 1.48,
+        "die-linke": 8.38,
+        "fuer-paderborn": 4.44,
+        "die-partei": 2.17,
+        "volt": 1.38
+    },
+    
+  "5": {
+    "cdu": 32.91,
+    "spd": 11.70,
+    "greens": 23.47,
+    "fdp": 4.26,
+    "afd": 15.36,
+    "fbi": 1.53,
+    "die-linke": 4.85,
+    "fuer-paderborn": 2.39,
+    "die-partei": 2.33,
+    "volt": 1.20
+  },
+   "6": {
+    "cdu": 34.46,
+    "spd": 16.49,
+    "greens": 27.91,
+    "fdp": 5.92,
+    "afd": 3.38,
+    "fbi": 1.18,
+    "die-linke": 4.57,
+    "fuer-paderborn": 2.03,
+    "die-partei": 2.92,
+    "volt": 1.14
+  },
+     "7": {
+    "cdu": 37.83,
+    "spd": 12.53,
+    "greens": 30.40,
+    "fdp": 3.72,
+    "afd": 2.86,
+    "fbi": 1.19,
+    "die-linke": 5.34,
+    "fuer-paderborn": 1.72,
+    "die-partei": 3.38,
+    "volt": 1.05
+ 
+    },
+"8": {
+    "cdu": 28.47,
+    "spd": 9.87,
+    "greens": 37.89,
+    "fdp": 5.10,
+    "afd": 2.43,
+    "fbi": 0.36,
+    "die-linke": 7.97,
+    "fuer-paderborn": 1.98,
+    "die-partei": 4.21,
+    "volt": 1.74
+  },
+   "9": {
+    "cdu": 30.32,
+    "spd": 14.93,
+    "greens": 32.52,
+    "fdp": 3.24,
+    "afd": 4.69,
+    "fbi": 0.93,
+    "die-linke": 6.60,
+    "fuer-paderborn": 1.22,
+    "die-partei": 2.60,
+    "volt": 2.95
+  },
+    "10": {
+    "cdu": 30.00,
+    "spd": 11.53,
+    "greens": 30.05,
+    "fdp": 4.92,
+    "afd": 3.44,
+    "fbi": 0.60,
+    "die-linke": 9.23,
+    "fuer-paderborn": 3.01,
+    "die-partei": 5.68,
+    "volt": 1.53
+  },
+    "11": {
+    "cdu": 31.08,
+    "spd": 13.27,
+    "greens": 30.07,
+    "fdp": 4.38,
+    "afd": 3.37,
+    "fbi": 0.84,
+    "die-linke": 8.77,
+    "fuer-paderborn": 3.49,
+    "die-partei": 3.54,
+    "volt": 1.18
+  },
+   "12": {
+    "cdu": 32.09,
+    "spd": 13.25,
+    "greens": 33.17,
+    "fdp": 4.68,
+    "afd": 3.34,
+    "fbi": 0.54,
+    "die-linke": 5.12,
+    "fuer-paderborn": 3.82,
+    "die-partei": 3.02,
+    "volt": 0.97
+  },
+   "13": {
+    "cdu": 33.46,
+    "spd": 9.93,
+    "greens": 34.11,
+    "fdp": 5.36,
+    "afd": 3.08,
+    "fbi": 0.98,
+    "die-linke": 5.78,
+    "fuer-paderborn": 3.96,
+    "die-partei": 2.56,
+    "volt": 0.79
+  },
+ "14": {
+    "cdu": 39.21,
+    "spd": 13.66,
+    "greens": 27.43,
+    "fdp": 5.79,
+    "afd": 3.91,
+    "fbi": 1.01,
+    "die-linke": 4.25,
+    "fuer-paderborn": 1.98,
+    "die-partei": 2.27,
+    "volt": 0.48
+  },
+   "15": {
+    "cdu": 40.72,
+    "spd": 16.23,
+    "greens": 20.05,
+    "fdp": 5.39,
+    "afd": 7.84,
+    "fbi": 0.89,
+    "die-linke": 3.68,
+    "fuer-paderborn": 2.73,
+    "die-partei": 1.64,
+    "volt": 0.82
+  },
+     "16": {
+    "cdu": 41.49,
+    "spd": 12.15,
+    "greens": 22.30,
+    "fdp": 6.32,
+    "afd": 5.89,
+    "fbi": 1.09,
+    "die-linke": 4.37,
+    "fuer-paderborn": 2.73,
+    "die-partei": 2.79,
+    "volt": 0.85
+  },
+   {
+  "17": {
+    "cdu": 47.64,
+    "spd": 9.82,
+    "greens": 11.86,
+    "fdp": 19.17,
+    "afd": 4.19,
+    "fbi": 0.88,
+    "die-linke": 2.40,
+    "fuer-paderborn": 1.56,
+    "die-partei": 1.68,
+    "volt": 0.80
+  },
+    "18": {
+    "cdu": 45.97,
+    "spd": 11.04,
+    "greens": 19.91,
+    "fdp": 9.34,
+    "afd": 4.35,
+    "fbi": 0.98,
+    "die-linke": 2.94,
+    "fuer-paderborn": 2.22,
+    "die-partei": 2.77,
+    "volt": 0.47
+  },
+     "19": {
+    "cdu": 44.78,
+    "spd": 12.80,
+    "greens": 22.42,
+    "fdp": 3.92,
+    "afd": 5.48,
+    "fbi": 0.86,
+    "die-linke": 3.63,
+    "fuer-paderborn": 2.07,
+    "die-partei": 2.94,
+    "volt": 1.10
+  },
+      "20": {
+    "cdu": 49.04,
+    "spd": 15.57,
+    "greens": 17.99,
+    "fdp": 3.81,
+    "afd": 4.35,
+    "fbi": 1.04,
+    "die-linke": 2.62,
+    "fuer-paderborn": 2.08,
+    "die-partei": 2.82,
+    "volt": 0.69
+  },
+  "21": {
+    "cdu": 46.22,
+    "spd": 11.73,
+    "greens": 21.07,
+    "fdp": 4.95,
+    "afd": 3.83,
+    "fbi": 1.63,
+    "die-linke": 3.62,
+    "fuer-paderborn": 4.69,
+    "die-partei": 1.73,
+    "volt": 0.51
+  },
+   "22": {
+    "cdu": 39.65,
+    "spd": 20.12,
+    "greens": 15.47,
+    "fdp": 8.66,
+    "afd": 3.82,
+    "fbi": 1.42,
+    "die-linke": 2.50,
+    "fuer-paderborn": 6.27,
+    "die-partei": 1.91,
+    "volt": 0.20
+  },
+   "23": {
+    "cdu": 39.96,
+    "spd": 14.95,
+    "greens": 22.05,
+    "fdp": 5.38,
+    "afd": 4.24,
+    "fbi": 0.84,
+    "die-linke": 2.47,
+    "fuer-paderborn": 7.75,
+    "die-partei": 1.78,
+    "volt": 0.59
+  },
+ "24": {
+    "cdu": 58.79,
+    "spd": 7.20,
+    "greens": 16.58,
+    "fdp": 3.87,
+    "afd": 5.06,
+    "fbi": 1.44,
+    "die-linke": 2.83,
+    "fuer-paderborn": 2.43,
+    "die-partei": 1.79
+    "volt": 0
+  },
+   "25": {
+    "cdu": 37.32,
+    "spd": 14.13,
+    "greens": 23.19,
+    "fdp": 5.19,
+    "afd": 9.42,
+    "fbi": 0.66,
+    "die-linke": 4.29,
+    "fuer-paderborn": 2.29,
+    "die-partei": 2.72,
+    "volt": 0.79
+  },
+      "26": {
+    "cdu": 42.64,
+    "spd": 12.80,
+    "greens": 23.11,
+    "fdp": 4.10,
+    "afd": 7.62,
+    "fbi": 0.90,
+    "die-linke": 3.52,
+    "fuer-paderborn": 2.75,
+    "die-partei": 1.60,
+    "volt": 0.90
+  },
+  "27": {
+    "cdu": 46.61,
+    "spd": 15.31,
+    "greens": 17.01,
+    "fdp": 4.36,
+    "afd": 7.87,
+    "fbi": 1.09,
+    "die-linke": 2.48,
+    "fuer-paderborn": 2.18,
+    "die-partei": 2.78,
+    "volt": 0.30
+  },
+  "28": {
+    "cdu": 46.36,
+    "spd": 17.61,
+    "greens": 18.14,
+    "fdp": 4.73,
+    "afd": 4.68,
+    "fbi": 1.30,
+    "die-linke": 2.99,
+    "fuer-paderborn": 2.22,
+    "die-partei": 1.54,
+    "volt": 0.43
+  },
+  "29": {
+    "cdu": 55.94,
+    "spd": 11.09,
+    "greens": 12.32,
+    "fdp": 3.55,
+    "afd": 8.39,
+    "fbi": 1.41,
+    "die-linke": 3.37,
+    "fuer-paderborn": 1.78,
+    "die-partei": 1.72,
+    "volt": 0.43
+  }
+    },
+  "past-results": {
+    "cdu": {
+      "Anzahl": 22412,
+      "Prozent": 40.33
+    },
+    "spd": {
+      "Anzahl": 7101,
+      "Prozent": 12.78
+    },
+    "greens": {
+      "Anzahl": 13412,
+      "Prozent": 24.14
+    },
+    "fdp": {
+      "Anzahl": 3152,
+      "Prozent": 5.67
+    },
+    "left": {
+      "Anzahl": 2554,
+      "Prozent": 4.60
+    },
+    "afd": {
+      "Anzahl": 2811,
+      "Prozent": 5.06
+    },
+    "fbi": {
+      "Anzahl": 564,
+      "Prozent": 1.01
+    },
+    "fuer": {
+      "Anzahl": 1541,
+      "Prozent": 2.77
+    },
+    "the-party": {
+      "Anzahl": 1485,
+      "Prozent": 2.67
+    },
+    "volt": {
+      "Anzahl": 536,
+      "Prozent": 0.96
+    }
+  }
+}
